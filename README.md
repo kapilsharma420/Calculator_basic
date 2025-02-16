@@ -1,6 +1,7 @@
 # raju
 
 A new Flutter project. it is all about the calculator 
+in this there is a package share prefrence which is used of logic of equal function 
 
 ## Getting Started
 
