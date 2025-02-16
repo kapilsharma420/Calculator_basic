@@ -1,6 +1,6 @@
 # raju
 
-A new Flutter project.
+A new Flutter project. it is all about the calculator 
 
 ## Getting Started
 
