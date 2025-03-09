@@ -1,17 +1,9 @@
-# raju
+# Flutter Calculator App
 
-A new Flutter project. it is all about the calculator 
-in this there is a package share prefrence which is used of logic of equal function 
+A simple arithmetic calculator built with Flutter. It performs basic operations (Addition, Subtraction, Multiplication, and Division) and saves the calculation history using the `shared_preferences` package.
 
-## Getting Started
+## Features
+- Basic arithmetic operations (+, -, *, /).
+- Stores calculation history locally.
+- Fast and lightweight UI.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
